@@ -17,7 +17,7 @@ skills_repo: anthropics/skills
 openclaw:
   id: openclaw
   repo: openclaw/openclaw
-    name: OpenClaw
+  name: OpenClaw
 
 openclaw_peers:
   - id: nanobot
